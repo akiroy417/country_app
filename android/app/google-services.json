@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "954571161833",
+    "project_id": "countryapp-cb26f",
+    "storage_bucket": "countryapp-cb26f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954571161833:android:0873dcc0c1a3c3ec177078",
+        "android_client_info": {
+          "package_name": "com.example.taskcountryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954571161833-uo5gak7cbhn523c4thh3ssrpjadeu2kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJKrn2W7Mhee2AT4WqGEf2u6mPrD0VDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954571161833-uo5gak7cbhn523c4thh3ssrpjadeu2kp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "954571161833-8o38r7vrr0kl4m9r8ec9ag5f57u3l5jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskcountryapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
